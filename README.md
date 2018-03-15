@@ -32,6 +32,6 @@ Download build.zip from [releases](https://github.com/siddharthkp/calendar-tasks
 
 ### Want to contribute?
 
-Please don't? Sorry, I have no intention of maintaining this.
+Please don't? Sorry, I have no intention of maintaining this. [Use @thekitze's app](https://twitter.com/thekitze/status/968224110068236288)
 
 &nbsp;&nbsp;
