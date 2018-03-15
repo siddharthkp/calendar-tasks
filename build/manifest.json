@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Maker",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": ["https://calendar.google.com/*"],
+      "css": [],
+      "js": ["/static/js/main.js"]
+    }
+  ]
+}
